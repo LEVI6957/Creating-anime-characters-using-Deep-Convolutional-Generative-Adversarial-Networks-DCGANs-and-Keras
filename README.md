@@ -1,5 +1,5 @@
 <h1 align="center">🌟 Creating anime characters using Deep Convolutional Generative Adversarial Networks (DCGANs) and Keras 🌟</h1>
-<p align="center">🔍 Membuat Gambar anime dari DCGANs dan Keras! 🔍</p>
+<p align="center">🔍 Create Gambar anime from DCGANs dan Keras! 🔍</p>
 
 <div align="center">
     <img src="https://img.shields.io/badge/Jupyter-FFAA00?style=for-the-badge&logo=Jupyter&logoColor=white">
